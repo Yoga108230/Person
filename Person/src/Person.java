@@ -18,7 +18,7 @@ public class Person {
 		Person p2= new Person("Vincent", 23, "Makati City");
 		Person p3= new Person("Francis", 25, "Mandaluyong City");
 		Person p4= new Person("Carmel", 60, "Cavite City");
-		Person p5= new Person("Noel", 63, "Quezon City");
+		Person p5= new Person("Noel", 61, "Quezon City");
 		
 		p1.display();
 		p2.display();
